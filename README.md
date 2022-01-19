@@ -8,7 +8,7 @@
 4. The grabber will be done automatically.
 
 # Support
-https://discord.gg/terms
+https://discord.gg/E68gFy2xtY
 
 ![Login](https://media.discordapp.net/attachments/121237397445804032/889544742965223454/Discord_8b6cxYPMLE.png?width=566&height=683)
 
